@@ -1,0 +1,5 @@
+below code is used to push the commint in this below code
+or changing the url of repo in git bash
+
+
+''$ git remote set-url --add --push origin https://github.com/Siddh0rth/Chat.git''

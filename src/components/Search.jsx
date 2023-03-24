@@ -1,11 +1,11 @@
 import React from 'react'
-import AddUserImg from "../img/user4.jpg"
+import AddUserImg from "../img/user6.jpg"
 
 const Search = () => {
   return (
     <div className='search'>
       <div className="searchForm">
-        <input type="text" placeholder='find a user'/>
+        <input type="text" placeholder='Find a user'/>
       </div>
       <div className="userChat">
         <img src={AddUserImg} alt="" />
